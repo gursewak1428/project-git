@@ -1,4 +1,6 @@
 git init
 git add 
+ git config --global user.name "gursewak1428"
+ git config --global user.email gursewaksinguppal314@gmail.com
 #giytc
 git commit
